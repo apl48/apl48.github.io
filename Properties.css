@@ -1,0 +1,75 @@
+html,
+body {
+  height: 100%;
+  background-color: #EAE5E5;
+  color: #777;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
+#wrap > .container {
+  padding: 60px 15px 0;
+}
+
+.container .credit {
+  margin:20px 0;
+}
+
+code {
+  font-size: 80%;
+}
+
+.photo{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-mox-border-radius: 150px;
+	background: url(https://avatars1.githubusercontent.com/u/25461432?v=3&u=4553652ef26ceab652edb1097bbf6760b6c8bcba&s=400) no-repeat;
+	margin: 0 0 10px 60px;
+}
+
+.circle {
+	border-radius: 50%;
+	width: 165px;
+	height: 165px;
+	text-align: center;
+	vertical-align: center;
+	margin: 30px 10px 10px 10px;
+}
+
+.resume{
+	background-color: #BA77BA;
+}
+
+h3.center{
+	vertical-align: center;
+	text-align: center;
+	padding: 45px 0px 0px 0px;
+}
+
+a {
+	color: #777;
+}
+
+a:hover {
+	color: white;
+}
+
+.home {
+	margin: 100px 0px 100px 0px;
+}
+
+#tagline {
+	margin: 0px 0px 0px 50px;
+}
+
+#circle-collection{
+	margin: 0px 0px 0px 20px;
+}
